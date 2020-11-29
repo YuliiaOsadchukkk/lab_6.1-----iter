@@ -1,0 +1,3 @@
+﻿  Source.cpp
+F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.1 --- iter\Lab_6.1 --- iter\Lab_6.1 --- iter\Source.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab_6.1 --- iter.vcxproj -> F:\Навчання\Лаб. з АП\Лабораторні 6.1-6.3(6.4)\Lab_6.1 --- iter\Lab_6.1 --- iter\Debug\Lab_6.1 --- iter.exe
